@@ -1,6 +1,6 @@
 
-
 Software Design Document for Online Shopping
+
 Introduction
 In today’s society, online shopping has adapted to the fast-paced lifestyle, making customers enjoy the convenience of choosing and buying their favorite products at home. This system is based on, price comparison of retail stores at given location, and other related technologies. The foreground system achieves some functions including the user registration and login, checking and buying commodities, the shopping cart, the personal order management, the customer complaint and personal information management, etc. And the background system achieves functions including the administrator login, the commodities category management, the commodities management, the order management, the news and information management, and so on. When released, this system will be dynamic and interactive, and become an online shopping system which is operated easily to compare prices of different retail stores and has many other functions.
 This design document mainly consists of State Machine/, Activity Diagrams, Class Design, and use case diagram. The main purposes of this design document are listed below.
