@@ -32,10 +32,8 @@ Product Class: The product class contains the details of the products in the onl
 Account Class: The Account class contains the details of the user Account in the online shopping. This class will be notified when the user checkout for a billing.
 Retail Store Class: The Retail Store Class contains the details of the all retail stores which sell their product in the online shopping. This class will be notified when the user search for the retail store and select retail store.
 
-3. Activity Diagram
-Activity flow diagram
-4. Interaction Diagram
 
 
-5. State chart Diagram
+
+
 
